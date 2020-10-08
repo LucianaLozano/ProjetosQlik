@@ -1,0 +1,2 @@
+# ProjetosQlik
+Projetos Qlik Sense
